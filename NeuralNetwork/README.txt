@@ -1,0 +1,1 @@
+This is an implementation of multilayer NNN with Numpy. These models have been designed for classification tasks for 4 data sets authors, products, 4dim, Odiya provided by the instructor. It was part of ADV. NLP course. The details are discussed in the attached pdf. I could not upload the data set because of Copyright.
